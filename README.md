@@ -6,7 +6,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"</a>
 
 --------------
-
+![Insominia- All Orders](https://user-images.githubusercontent.com/93807470/167742900-32236098-77c8-4273-a6e2-56777b547c58.gif)
 
 <h2 align="center"><b>📝Sobre o Projeto</b></h2>
 
@@ -20,6 +20,7 @@
 - [x] Uma Rota [PUT] que atualiza os pedidos ja criados que é acessada com o ID 
 - [x] Uma Rota [Delete] que deleta os pedidos que é acessada pelo ID
 - [x] Um Middleware que garante que o ID que é Enviado pela URL da requisição é um ID Existente 
+- [x] Um Middleware que retorna no console, qual o tipo da requisição foi chamada e a URL
 
  <table>
   <tr>
